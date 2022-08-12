@@ -2,7 +2,7 @@
 	"name": "Lighthouse Hacks",
 	"description": "The One-stop Student Solution!",
 	"version": "0.1",
-	"manifest_version": 2,
+	"manifest_version": 3,
 	"permissions": ["tabs","activeTab","clipboardWrite","clipboardRead"],
 	"browser_action":{
 		"default_icon": "desktop.png", 
